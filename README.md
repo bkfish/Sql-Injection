@@ -8,5 +8,5 @@
 #### 3、sqlli-labs参考WP
 [sqli-labs参考.pdf](Book/sqli-labs参考.pdf)
 
-#### 3、sqlli-labs参考WP
+#### 4、sqlli-labs参考WP
 [sqlmap教程.pdf](Book/sqlmap教程.pdf)
