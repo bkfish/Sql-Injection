@@ -4,3 +4,9 @@
 
 #### 2、sqli-labs
 [sqli-labs.zip](Src/sqli-labs.zip)
+
+#### 3、sqlli-labs参考WP
+[sqli-labs参考.pdf](Book/sqli-labs参考.pdf)
+
+#### 3、sqlli-labs参考WP
+[sqlmap教程.pdf](Book/sqlmap教程.pdf)
