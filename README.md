@@ -8,7 +8,7 @@
 #### 3、sqlli-labs参考WP
 [sqli-labs参考.pdf](Book/sqli-labs参考.pdf)
 
-#### 4、sqlli-labs参考WP
+#### 4、sqlmap教程参考WP
 [sqlmap教程.pdf](Book/sqlmap教程.pdf)
 
 ## 简单入门
