@@ -121,5 +121,7 @@ python sqlmap.py -u "http://localhost/sqli-labs-master/Less-1/?id=1"   -D securi
 ```
 python sqlmap.py -u "http://localhost/sqli-labs-master/Less-1/?id=1" --sql-shell
 ```
+
+[下一篇-2~6题详解](README2.md)
 更多介绍？
 [https://kit4y.github.io/tags/Sql-Injection/](https://kit4y.github.io/tags/Sql-Injection/)
