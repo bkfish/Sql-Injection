@@ -56,9 +56,9 @@ SELECT * FROM users WHERE id=("$id") LIMIT 0,1
 ```
 #### Less-5 在导航页里显示的是要使用双查询
 发现正常或者注入成功是这样的
-![](2.png)
+![](image/Sqli-Labs-Sqlmap-基础篇/9.png)
 而一旦出错会抱错
-![](1.png)
+![](image/Sqli-Labs-Sqlmap-基础篇/8.png)
 显然是布尔注入而且猜测语句
 ```
 SELECT * FROM users WHERE id='$id' LIMIT 0,1
@@ -73,6 +73,7 @@ SELECT * FROM users WHERE id='$id' LIMIT 0,1
 找第二个表改成limit 1,1
 ```
 也可以直接拿这个盲注脚本爆破，参数自己改就行了
+![](image/Sqli-Labs-Sqlmap-基础篇/11.png)
 
 ```
 #!/usr/bin/env python
@@ -144,3 +145,7 @@ search()
 ```
 #### Less-6 
 Less-6和Less-5的关系就和1♂2，3♂4的关系一样 把'改成"在脚本上修改就很行了
+
+
+更多介绍？
+[https://kit4y.github.io/tags/Sql-Injection/](https://kit4y.github.io/tags/Sql-Injection/)
