@@ -75,7 +75,7 @@ SELECT * FROM users WHERE id='$id' LIMIT 0,1
 也可以直接拿这个盲注脚本爆破，参数自己改就行了
 ![](image/Sqli-Labs-Sqlmap-基础篇/11.png)
 
-```
+```python
 #!/usr/bin/env python
 # encoding:utf8
 
@@ -146,6 +146,7 @@ search()
 #### Less-6 
 Less-6和Less-5的关系就和1♂2，3♂4的关系一样 把'改成"在脚本上修改就很行了
 
+[下一篇-7~10题详解](README3.md)
 
 更多介绍？
 [https://kit4y.github.io/tags/Sql-Injection/](https://kit4y.github.io/tags/Sql-Injection/)
