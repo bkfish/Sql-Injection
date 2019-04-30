@@ -130,5 +130,6 @@ for i in range(1,100):
 ```
 脚本和图九差不多只要修改一下闭合的单引号换成双引号
 
+[下一篇-11~16题详解](README4.md)
 更多介绍？
 [https://kit4y.github.io/tags/Sql-Injection/](https://kit4y.github.io/tags/Sql-Injection/)
