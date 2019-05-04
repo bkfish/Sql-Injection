@@ -125,6 +125,6 @@ search()
 ```
 登录成功不回显，魔改上面脚本即可
 
-[下一篇-11~16题详解](README4.md)
+[下一篇-17~22题详解](README5.md)
 更多介绍？
 [https://kit4y.github.io/tags/Sql-Injection/](https://kit4y.github.io/tags/Sql-Injection/)
