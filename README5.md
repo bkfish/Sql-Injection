@@ -105,3 +105,7 @@ JykgdW5pb24gc2VsZWN0IDEsZ3JvdXBfY29uY2F0KHNjaGVtYV9uYW1lKSwzIGZyb20gaW5mb3JtYXRp
 ```
 IiB1bmlvbiBzZWxlY3QgMSxncm91cF9jb25jYXQoc2NoZW1hX25hbWUpLDMgZnJvbSBpbmZvcm1hdGlvbl9zY2hlbWEuc2NoZW1hdGEj
 ```
+
+[下一篇-23~27题详解](README6.md)
+更多介绍？
+[https://kit4y.github.io/tags/Sql-Injection/](https://kit4y.github.io/tags/Sql-Injection/)
